@@ -1,4 +1,0 @@
-Model,Accuracy,F1 Score,Dem. Parity Diff,Eq. Odds Diff
-Logistic Regression,0.712,0.2174,0.0689,0.081
-Random Forest,0.752,0.4561,0.0341,0.037
-XGBoost,0.756,0.4404,0.0818,0.1944

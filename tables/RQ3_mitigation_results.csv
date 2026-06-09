@@ -1,4 +1,0 @@
-Condition,Accuracy,F1 Score,Dem. Parity Diff,Eq. Odds Diff
-Baseline,0.7520,0.4561,0.0341,0.0370
-After Reweighing,0.7480,0.4220,0.0446,0.0995
-% Change,-0.53%,-7.48%,30.57%,168.75%

@@ -1,4 +1,0 @@
-Model,F1 Score,Dem. Parity Diff,Fairness-Accuracy Ratio
-Logistic Regression,0.2174,0.0689,3.16
-Random Forest,0.4655,0.0225,20.69
-XGBoost,0.4404,0.0818,5.38
